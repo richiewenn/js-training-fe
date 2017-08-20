@@ -22,6 +22,5 @@
   },
   "dependencies": {
     "rendering-lib": "file:///C:\\Users\\vasekric\\IdeaProjects\\rendering-lib",
-    "systemjs": "^0.20.18"
   }
 }
