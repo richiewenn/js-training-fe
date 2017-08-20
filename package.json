@@ -21,6 +21,6 @@
     "webpack-dev-server": "^2.6.0"
   },
   "dependencies": {
-    "rendering-lib": "file:///C:\\Users\\vasekric\\IdeaProjects\\rendering-lib",
+    "rendering-lib": "file:///C:\\Users\\vasekric\\IdeaProjects\\rendering-lib"
   }
 }

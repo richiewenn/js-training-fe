@@ -1,12 +1,12 @@
 import Vasific from 'rendering-lib/src/Vasific';
 import Component from 'rendering-lib/src/Component';
 
-import TodoList from "./components/TodoList";
+import TodoList from "./containers/TodoList";
 
 const todoList = new TodoList();
 
 class App extends Component<any, any> {
-  render() {
+  render(): string {
     return todoList.render();
   }
 }
